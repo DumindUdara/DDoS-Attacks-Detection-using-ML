@@ -58,3 +58,7 @@ This project focuses on detecting Distributed Denial of Service (DDoS) attacks u
 ## Conclusion:
 This project demonstrates the effectiveness of three machine learning models in detecting DDoS attacks. The Random Forest model shows the best performance, closely followed by the Neural Network, while Logistic Regression performs slightly lower. The comparison highlights the trade-offs in precision, recall, and overall performance.
 
+## Final Result 
+![Screenshot 2024-10-21 114624](https://github.com/user-attachments/assets/5ff8bee1-b484-49f0-beec-cf9f6be5ce7c)
+
+
