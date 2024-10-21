@@ -1,6 +1,5 @@
 # Creating a readme file with the provided details about the project
 
-readme_content = """
 # DDoS Attack Detection using Machine Learning
 
 ## Overview:
@@ -61,4 +60,3 @@ This project focuses on detecting Distributed Denial of Service (DDoS) attacks u
 ## Conclusion:
 This project demonstrates the effectiveness of three machine learning models in detecting DDoS attacks. The Random Forest model shows the best performance, closely followed by the Neural Network, while Logistic Regression performs slightly lower. The comparison highlights the trade-offs in precision, recall, and overall performance.
 
-"""
