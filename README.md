@@ -1,5 +1,3 @@
-# Creating a readme file with the provided details about the project
-
 # DDoS Attack Detection using Machine Learning
 
 ## Overview:
