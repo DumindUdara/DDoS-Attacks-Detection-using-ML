@@ -9,6 +9,16 @@ This project focuses on detecting Distributed Denial of Service (DDoS) attacks u
 - **Matplotlib & Seaborn**: For data visualization.
 - **Scikit-learn**: For machine learning algorithms, model training, evaluation, and metrics.
 
+![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/your-repo-name?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo-name)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo-name?style=social)
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange)
+![Data Source](https://img.shields.io/badge/dataset-Kaggle-blue)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
+
 ## Workflow Steps:
 1. **Loading Libraries**: Importing the necessary libraries for data analysis, machine learning, and evaluation.
 2. **Data Loading**: Loading the dataset that contains both normal and attack traffic data.
