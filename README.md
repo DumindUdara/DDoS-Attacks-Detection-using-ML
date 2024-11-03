@@ -7,7 +7,7 @@ This project focuses on detecting Distributed Denial of Service (DDoS) attacks u
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical operations.
 - **Matplotlib & Seaborn**: For data visualization.
-- **Scikit-learn**: For machine learning algorithms, model training, evaluation, and metrics.
+- **Scikit-learn**: For machine learning algorithms, model training, evaluation, and metrics..
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/your-repo-name?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)
